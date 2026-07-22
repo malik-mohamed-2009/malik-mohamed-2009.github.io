@@ -3,3 +3,13 @@
   --primary: rgb(255,127,0)
   --hover: rgb(127,127,0)
 }
+
+.thread {
+    display: flex;
+    gap: 14px;
+    padding: 12px 16px;
+    border-radius: 24px;
+    cursor: pointer;
+    transition: 0.5s;
+    margin-top: 5px;
+}
