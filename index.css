@@ -29,3 +29,11 @@ body {
 .thread-hover {
   background: var(--hover);
 }
+
+.bubble {
+  --background-color: var(--bg);
+  --color: var(--primary);
+  --padding: 4.px 4.px;
+  --border-radius: 16.px
+  --width: fit-content;
+}
