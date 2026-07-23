@@ -2,6 +2,7 @@
   --bg: rgb(231,213,237);
   --primary: rgb(213,231,0);
   --hover: rgb(127,127,0);
+  --primaryContainer(199, 187, 194);
 }
 
 @font-face {
@@ -31,7 +32,7 @@ body {
 }
 
 .bubble {
-  --background-color: var(--bg);
+  --background-color: var(--primaryContainer);
   --color: var(--primary);
   --padding: 4.px 4.px;
   --border-radius: 16.px
