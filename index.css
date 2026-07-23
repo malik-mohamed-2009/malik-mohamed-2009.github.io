@@ -32,9 +32,13 @@ body {
 }
 
 .bubble {
-  --background-color: var(--primaryContainer);
-  --color: var(--primary);
-  --padding: 4.px 4.px;
-  --border-radius: 16.px
-  --width: fit-content;
+  background-color: var(--primaryContainer);
+  color: var(--primary);
+  padding: 4.px 4.px;
+  border-radius: 16.px
+  width: fit-content;
+  margin-left: auto;
+  margin-top: 3px;
+  text-align: end;
+  max-width: 70vw;
 }
