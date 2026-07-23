@@ -1,7 +1,7 @@
 :root {
-  --bg: rgb(255,127,255)
-  --primary: rgb(255,127,0)
-  --hover: rgb(127,127,0)
+  --bg: rgb(255,127,255),
+  --primary: rgb(255,127,0),
+  --hover: rgb(127,127,0),
 }
 
 @font-face {
